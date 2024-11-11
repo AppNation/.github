@@ -1,7 +1,5 @@
 # AppNation - Challenge the Unthinkable
 
-![Banner](https://cdn.prod.website-files.com/62521857c25bcbf952103c47/65017b784d295b3d51224a58_main-image%20(1).png)
-
 As one of the world's top app publishers, **AppNation** is not just creating apps; we're shaping the future. Our goal? To put cutting-edge, AI-driven technology into the hands of everyday people. We're all about opening doors to endless possibilities—and we invite you to step through these doors with us.
 
 Are you ready to discover what's possible?
